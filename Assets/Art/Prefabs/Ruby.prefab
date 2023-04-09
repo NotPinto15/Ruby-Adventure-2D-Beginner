@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 93288731780080581}
   - component: {fileID: 7196742224961316473}
   - component: {fileID: 7828958415297567962}
-  - component: {fileID: 8166359056377611133}
   m_Layer: 0
   m_Name: Ruby
   m_TagString: Untagged
@@ -134,17 +133,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.33676958, y: 0.37132758}
   m_EdgeRadius: 0
---- !u!114 &8166359056377611133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 93288731780080582}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5cd7f082037925e4fb2bd77bcfb10e11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
-  maxHealth: 5

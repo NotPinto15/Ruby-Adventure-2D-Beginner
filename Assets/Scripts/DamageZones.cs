@@ -13,5 +13,4 @@ public class DamageZones : MonoBehaviour
             controller.ChangeHealth(-1);
         }
     }
-
 }

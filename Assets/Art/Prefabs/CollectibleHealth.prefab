@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3654340364518108053}
   - component: {fileID: 3654340364518108054}
   - component: {fileID: 3654340364518108055}
-  - component: {fileID: 3654340364518108052}
+  - component: {fileID: -1022717038771311061}
   m_Layer: 0
   m_Name: CollectibleHealth
   m_TagString: Untagged
@@ -112,7 +112,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &3654340364518108052
+--- !u!114 &-1022717038771311061
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
