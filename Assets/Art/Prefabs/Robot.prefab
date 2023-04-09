@@ -151,6 +151,8 @@ MonoBehaviour:
   speed: 3
   vertical: 0
   changeTime: 3
+  smokeEffect: {fileID: 8759825799018127348, guid: fa10042bf0d2eae4fab98a558d47b94e,
+    type: 3}
 --- !u!95 &6094824475402807519
 Animator:
   serializedVersion: 5
@@ -192,7 +194,7 @@ PrefabInstance:
     - target: {fileID: 8759825799018127351, guid: fa10042bf0d2eae4fab98a558d47b94e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.88
+      value: 1.32
       objectReference: {fileID: 0}
     - target: {fileID: 8759825799018127351, guid: fa10042bf0d2eae4fab98a558d47b94e,
         type: 3}
