@@ -70,7 +70,7 @@ public class EnemysController : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D other)
     {
-        RubyController player = other.gameObject.GetComponent<RubyController >();
+        RubysController player = other.gameObject.GetComponent<RubysController >();
 
         if (player != null)
         {
